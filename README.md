@@ -27,8 +27,6 @@
 ### How to run Local
 - Clone the repository
     - git clone https://github.com/adonisman710/my-portfolio.git
-- Get dependency
-    - yarn add gh-pages && npm install gh-pages — save-dev | node version 16.20.0(must)
 - run
     - npm run start
 - build
