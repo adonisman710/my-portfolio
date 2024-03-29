@@ -12,7 +12,7 @@ ReactGA.initialize(TRACKING_ID)
 ReactGA.pageview(window.location.pathname)
 
 ReactDOM.render(
-	<BrowserRouter basename="/my-portfolio-ruddy-five.vercel.app/">
+	<BrowserRouter basename="/">
 		<App />
 	</BrowserRouter>,
 	document.getElementById("root"),
