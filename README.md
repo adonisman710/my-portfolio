@@ -1,5 +1,5 @@
-# My Full stack developer's portfolio [Live link](https://sunshine0213.github.io/my--portfolio/)
-- Designed & Developed by [sunshine](https://github.com/sunshine0213)
+# My Full stack developer's portfolio [Live link](https://my-portfolio-ruddy-five.vercel.app/)
+- Designed & Developed by [adonisman](https://github.com/adonisman710)
 
 ### Sections
 - Home banner(Name, title, and a summary about me)
@@ -26,7 +26,7 @@
 
 ### How to run Local
 - Clone the repository
-    - git clone https://github.com/adonisman710/my-portfolio.git
+    - git clone https://github.com/adonisman710
 - run
     - npm run start
 - build

@@ -1,7 +1,7 @@
 {
   "name": "adonisninja-portfolio",
   "version": "0.1.0",
-  "homepage": "https://adonisman710.github.io/my-portfolio",
+  "homepage": "https://my-portfolio-ruddy-five.vercel.app/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
