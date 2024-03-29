@@ -1,12 +1,12 @@
 import React from "react"
 
 import Skill from "./Skill"
-import figmaIcon from "assets/icons/figma"
-import reactIcon from "assets/icons/react-icon"
-import mobileIcon from "assets/icons/mobile-icon"
-import nodeIcon from "assets/icons/node"
-import sassIcon from "assets/icons/sass"
-import pythonIcon from "assets/icons/python"
+import figmaIcon from "assets/icons/figma.svg"
+import reactIcon from "assets/icons/react-icon.svg"
+import mobileIcon from "assets/icons/mobile-icon.svg"
+import nodeIcon from "assets/icons/node.svg"
+import sassIcon from "assets/icons/sass.svg"
+import pythonIcon from "assets/icons/python.svg"
 import "./style.scss"
 
 function Skills() {

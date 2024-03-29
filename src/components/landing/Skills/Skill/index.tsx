@@ -5,7 +5,7 @@ import './style.scss'
 type SkillPropType = {
 	name: string
 	detail: string
-	icon: Function
+	icon: string
 }
 
 const Skill: React.FC<SkillPropType> = ({
@@ -19,7 +19,12 @@ const Skill: React.FC<SkillPropType> = ({
 			<div className='skill-item__logo'>
 				<div className='logo__circle'>
 					<div className='logo__icon'>
-						<Icon />
+						{/* <Icon /> */}
+						<img
+                              src={Icon}
+							  style={{width:'50px'}}
+                              data-tooltip-id="my-tooltip"
+                            />
 					</div>
 				</div>
 			</div>
